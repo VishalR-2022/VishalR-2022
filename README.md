@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://komal-m-raut.github.io/portfolio/)
+[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)]
 <h1 align="center">Hey 👋, I'm Vishal Rajput.</h1>
 <h3 align="center">From canvas to code — creativity is my constant.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalr-2022&label=Profile%20views&color=0e75b6&style=flat" alt="vishalr-2022" /> </p>
 
 - 🌱 I’m currently learning **React Native, AWS.**
-
-- 👨‍💻 All of my projects are available at [https://komal-m-raut.github.io/portfolio/](https://komal-m-raut.github.io/portfolio/)
 
 - 💬 Ask me about **MERN.**
 
